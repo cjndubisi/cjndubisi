@@ -5,7 +5,6 @@ Currently turning caffeine into code and debugging with a side of anime. When I'
 ## 🚀 What I Do
 Breaking and fixing things in:
 - React Native (because who needs platform-specific headaches?)
-- AWS (making the cloud rain efficiency)
 - Node.js (JavaScript all the things!)
 - iOS/Swift (for when native is non-negotiable)
 - CI/CD (because manually deploying is so 2010)
